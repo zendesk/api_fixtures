@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ApiFixtures::VERSION
   s.authors     = ['Mick Staugaard']
   s.email       = ['mick@staugaard.com']
-  s.homepage    = ''
+  s.homepage    = 'https://github.com/zendesk/api_fixtures'
   s.summary     = 'An easy way to setup JSON API fixtures for your integration tests'
   s.license     = 'Apache License Version 2.0'
 
